@@ -11,7 +11,7 @@ All boring routine could be automated so let's do it together! 🤖
 
 I'm also a cyclist 🚴 (Cannondate Topstone 🚲 ❤️)
 
-I love nature 🌳🌲🌴 and like hiking a lot 🥾⛰
+I love nature 🌳🌲🌴 and like hiking a lot 🥾🎒⛰
 
 <!--
 **mandelbroo/mandelbroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
