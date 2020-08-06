@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-I’m:
-- 🔭 currently working on a part of Sportsbook on fanteam.com
-- 🌱 currently learning OOA/D, "gang-of-four" and GRASP design patterns
-- 👯 looking to collaborate on a product similar to Strava, Komoot, Maps.me or Mi Fit.
+🔭 currently working on a part of Sportsbook on fanteam.com
+🌱 learning OOA/D, "gang-of-four" and GRASP design patterns
 
 I believe a small positive change today will lead to a better world tomorrow 🌍
 
