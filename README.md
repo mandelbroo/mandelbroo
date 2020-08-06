@@ -2,11 +2,11 @@
 
 🌍 I believe a small positive change today will lead to a better world tomorrow
 &nbsp;&nbsp;&nbsp;&nbsp;
-🚴 I'm also a cyclist (Cannondale Topstone 🚲 ❤️)  
+🌳🌲🌴 Nature Lover  
 
 🤖 All boring routine could be automated so let's do it together!
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-🌳🌲🌴 Nature Lover  
+🚴 I'm also a cyclist (Cannondale Topstone 🚲 ❤️)  
 
 🔭 Currently working on a part of Sportsbook on https://fanteam.com/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
