@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-🔭 Currently working on a part of Sportsbook on https://fanteam.com/  
-🌱 Learning OOA/D, "gang-of-four" and GRASP design patterns  
 🌍 I believe a small positive change today will lead to a better world tomorrow  
 🤖 All boring routine could be automated so let's do it together!  
+🔭 Currently working on a part of Sportsbook on https://fanteam.com/  
+🌱 Learning OOA/D, "gang-of-four" and GRASP design patterns  
 
 🚴 I'm also a cyclist (Cannondale Topstone 🚲 ❤️)  
 🌳🌲🌴 Nature Lover  
-🥾🎒⛰ Into hiking
+🥾🎒⛰ Into hiking  
 
 <!--
 **mandelbroo/mandelbroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
