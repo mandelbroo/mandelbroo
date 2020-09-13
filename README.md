@@ -9,7 +9,7 @@
 🚴 I'm also a cyclist (Cannondale Topstone 🚲 ❤️)  
 
 <!--🔭 Currently working on a part of Sportsbook on https://fanteam.com/ -->
-🌱 Learning OOA/D, "gang-of-four" and GRASP design patterns&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥾🎒⛰ Into hiking  
+🌱 Learning OOA/D, "gang-of-four" and GRASP design patterns&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥾🎒⛰ Into hiking  
 
 
 
