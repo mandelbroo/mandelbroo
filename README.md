@@ -1,4 +1,4 @@
-### Hi, I'm Vitalii! :wave::skin-tone-2:
+### Hi, I'm Vitalii! 👋🏻
 
 🌍 I believe a small positive change today will lead to a better world tomorrow
 &nbsp;&nbsp;&nbsp;&nbsp;
