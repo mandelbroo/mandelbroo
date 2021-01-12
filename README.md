@@ -1,15 +1,16 @@
 ### Hi, I'm Vitalii! 👋🏻
 
 🌍 I believe a small positive change today will lead to a better world tomorrow
-&nbsp;&nbsp;&nbsp;&nbsp;
-🌳🌲🌴 Nature Lover  
 
 🤖 All boring routine could be automated so let's do it together!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 🚴 I'm also a cyclist (Cannondale Topstone 🚲 ❤️)  
 
 <!--🔭 Currently working on a part of Sportsbook on https://fanteam.com/ -->
-🌱 Learning OOA/D, "gang-of-four" and GRASP design patterns&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥾🎒⛰ Into hiking  
+<!--🌱 Learning OOA/D, "gang-of-four" and GRASP design patterns  -->
+🌳🌲🌴 Nature Lover
+
+🥾🎒⛰ Into hiking  
 
 
 
