@@ -7,7 +7,7 @@
 <!--🔭 Currently working on a part of Sportsbook on https://fanteam.com/ -->
 <!--🌱 Learning OOA/D, "gang-of-four" and GRASP design patterns  -->
 
-🏃‍♂️🚴🥾🎒⛰🌳🌲🌴 Into Running/Cycling/Hiking
+⛰🌳🌲🌴🏃‍♂️🚴🧘‍♂️🥾🎒 Into Running/Cycling/Hiking
 
 
 
