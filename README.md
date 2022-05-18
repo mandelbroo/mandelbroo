@@ -2,7 +2,7 @@
 
 🌍 I believe a small positive change today will lead to a better world tomorrow
 
-🤖 All boring routine could be automated so let's do it together! 
+⚙️ All boring routine could be automated so let's do it together! 
 
 <!--🔭 Currently working on a part of Sportsbook on https://fanteam.com/ -->
 <!--🌱 Learning OOA/D, "gang-of-four" and GRASP design patterns  -->
